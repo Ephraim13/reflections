@@ -1,0 +1,15 @@
+We know why we need source control!
+
+Just trying to figure out how to use git!
+
+History is good so we don't repeat mistakes of the past.
+
+Commit at the right time.
+
+multiple changes need to go in or be backed out together.
+
+git log and history are really useful.
+
+much more confident!
+
+source control
