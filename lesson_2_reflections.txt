@@ -1,3 +1,5 @@
 we can init a new directory
 
 stage your changes before you commit them
+
+have a logical unit as the size
