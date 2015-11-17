@@ -9,3 +9,5 @@ use a branch to swing from a tree
 yes we can visualizes
 
 merging automatically can be a nightmare!s
+
+do merge manually
